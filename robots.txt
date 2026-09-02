@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aframe-architecture.com/sitemap.xml
